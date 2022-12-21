@@ -1,2 +1,7 @@
 # PTS-Data-Processing-
-Convert PTS raw data to mass flow rate
+
+## Description
+Simple software to process PTS raw data into mass flow rate
+
+## Input 
+
