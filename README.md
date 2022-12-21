@@ -4,10 +4,10 @@
 Simple software to process PTS raw data into mass flow rate. RUN IT FROM VISUAL STUDIO CODE
 
 ## Path
-Change path according your input file location
+Change path in Visual Studio Code according your input file location
 
 ## Input 
-Input MUST in excel format and parameter MUST in this unit: Depth (meter), Pressure (Bara), Temperature (Celcius), Spinner (rps), Velocity (m/min)
+Input MUST in excel file and parameter MUST in this unit: Depth (meter), Pressure (Bara), Temperature (Celcius), Spinner (rps), Velocity (m/min)
 
 **follow this pitcure setup:**
 
