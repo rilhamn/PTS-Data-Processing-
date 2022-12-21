@@ -1,4 +1,4 @@
-# PTS-Data-Processing-
+# PTS Data Processing
 
 ## Description
 Simple software to process PTS raw data into mass flow rate. RUN IT FROM VISUAL STUDIO CODE
